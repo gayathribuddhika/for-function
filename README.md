@@ -1,2 +1,2 @@
 # for-function
-For function in Python
+Definr For function in Python
